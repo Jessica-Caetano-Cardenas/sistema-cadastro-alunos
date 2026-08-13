@@ -51,5 +51,12 @@ sistema-cadastro-alunos/
 
 ## Autores
 
-Nome do Aluno 1  
-Nome do Aluno 2
+juan Pablo Alves Dos Santos
+
+Camily Silva de Christo 
+
+Ingred de Jesus Paulino 
+
+Giovana Alves da Silva                         
+
+Jéssica Caetano Cardenas
