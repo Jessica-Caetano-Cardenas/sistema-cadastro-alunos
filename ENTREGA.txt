@@ -1,0 +1,16 @@
+=== BRANCHES ===
+  cadastro
+  login
+* main
+=== HISTORICO ===
+af82e52 (HEAD -> main) merge: integra melhorias do cadastro
+682bdbe merge: integra funcionalidade de login
+1cd2b3d (cadastro) feat: organiza branch de cadastro
+21059dc docs: adiciona documentação do projeto
+7987683 (login) feat: adiciona página de login
+230a4c7 feat: implementa cadastro de alunos
+0b5f33c style: adiciona estilos da aplicação
+a5947e4 feat: cria estrutura da página de cadastro
+7abe9b2 chore: cria estrutura inicial do projeto
+=== STATUS ===
+?? ENTREGA.txt

@@ -1,0 +1,4 @@
+Branch cadastro
+
+Esta branch representa o desenvolvimento das funcionalidades específicas de cadastro.
+O formulário principal possui seleção de curso e validação básica.
